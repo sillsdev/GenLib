@@ -1,0 +1,16 @@
+bin\Debug\GenLib.dll
+bin\Debug\GenLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenLib.FormFind.resources
+obj\Debug\GenLib.FormProgressBar.resources
+obj\Debug\GenLib.FormReplace.resources
+obj\Debug\GenLib.csproj.GenerateResource.Cache
+obj\Debug\GenLib.dll
+obj\Debug\GenLib.pdb
+bin\Release\GenLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GenLib.FormFind.resources
+obj\Release\GenLib.FormProgressBar.resources
+obj\Release\GenLib.FormReplace.resources
+obj\Release\GenLib.csproj.GenerateResource.Cache
+obj\Release\GenLib.dll

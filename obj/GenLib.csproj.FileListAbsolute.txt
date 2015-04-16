@@ -1,0 +1,16 @@
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\bin\Debug\GenLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\bin\Debug\GenLib.pdb
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.FormFind.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.FormProgressBar.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.FormReplace.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Debug\GenLib.pdb
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\bin\Release\GenLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\GenLib.FormFind.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\GenLib.FormProgressBar.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\GenLib.FormReplace.resources
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\GenLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\GenLib\obj\Release\GenLib.dll

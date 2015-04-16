@@ -1,0 +1,17 @@
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\bin\x86\Debug\GenLib.dll
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\bin\x86\Debug\GenLib.pdb
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormReplaceFrench.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormItemSelectionFrench.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormFind.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormBrowse.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormEmpty.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormFindFrench.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormInfo.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormItemSelection.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormProgressBar.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.FormReplace.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.TextPrintDocument.resources
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.csproj.GenerateResource.Cache
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.dll
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.pdb
+C:\Users\AFA_Kents\Documents\My VS Projects\GenLib\obj\x86\Debug\GenLib.csprojResolveAssemblyReference.cache
