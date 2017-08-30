@@ -36,30 +36,32 @@
             this.btnCancel = new System.Windows.Forms.Button();
             this.labAvailable = new System.Windows.Forms.Label();
             this.labSelected = new System.Windows.Forms.Label();
+            this.btnAddAll = new System.Windows.Forms.Button();
+            this.btnRemoveAll = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbAvailable
             // 
             this.lbAvailable.FormattingEnabled = true;
-            this.lbAvailable.ItemHeight = 18;
+            this.lbAvailable.ItemHeight = 15;
             this.lbAvailable.Location = new System.Drawing.Point(22, 57);
             this.lbAvailable.Name = "lbAvailable";
-            this.lbAvailable.Size = new System.Drawing.Size(144, 256);
+            this.lbAvailable.Size = new System.Drawing.Size(144, 244);
             this.lbAvailable.Sorted = true;
             this.lbAvailable.TabIndex = 1;
             // 
             // lbSelected
             // 
             this.lbSelected.FormattingEnabled = true;
-            this.lbSelected.ItemHeight = 18;
+            this.lbSelected.ItemHeight = 15;
             this.lbSelected.Location = new System.Drawing.Point(313, 57);
             this.lbSelected.Name = "lbSelected";
-            this.lbSelected.Size = new System.Drawing.Size(144, 256);
+            this.lbSelected.Size = new System.Drawing.Size(144, 244);
             this.lbSelected.TabIndex = 3;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(189, 110);
+            this.btnAdd.Location = new System.Drawing.Point(189, 131);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(100, 32);
             this.btnAdd.TabIndex = 4;
@@ -69,7 +71,7 @@
             // 
             // btnRemove
             // 
-            this.btnRemove.Location = new System.Drawing.Point(189, 168);
+            this.btnRemove.Location = new System.Drawing.Point(189, 186);
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(100, 32);
             this.btnRemove.TabIndex = 5;
@@ -103,7 +105,7 @@
             this.labAvailable.AutoSize = true;
             this.labAvailable.Location = new System.Drawing.Point(19, 24);
             this.labAvailable.Name = "labAvailable";
-            this.labAvailable.Size = new System.Drawing.Size(105, 18);
+            this.labAvailable.Size = new System.Drawing.Size(89, 15);
             this.labAvailable.TabIndex = 1;
             this.labAvailable.Text = "Available items";
             // 
@@ -112,15 +114,37 @@
             this.labSelected.AutoSize = true;
             this.labSelected.Location = new System.Drawing.Point(310, 24);
             this.labSelected.Name = "labSelected";
-            this.labSelected.Size = new System.Drawing.Size(105, 18);
+            this.labSelected.Size = new System.Drawing.Size(88, 15);
             this.labSelected.TabIndex = 2;
             this.labSelected.Text = "Selected items";
             // 
+            // btnAddAll
+            // 
+            this.btnAddAll.Location = new System.Drawing.Point(189, 75);
+            this.btnAddAll.Name = "btnAddAll";
+            this.btnAddAll.Size = new System.Drawing.Size(100, 32);
+            this.btnAddAll.TabIndex = 8;
+            this.btnAddAll.Text = "Add All";
+            this.btnAddAll.UseVisualStyleBackColor = true;
+            this.btnAddAll.Click += new System.EventHandler(this.btnAddAll_Click);
+            // 
+            // btnRemoveAll
+            // 
+            this.btnRemoveAll.Location = new System.Drawing.Point(189, 245);
+            this.btnRemoveAll.Name = "btnRemoveAll";
+            this.btnRemoveAll.Size = new System.Drawing.Size(100, 32);
+            this.btnRemoveAll.TabIndex = 9;
+            this.btnRemoveAll.Text = "Remove All";
+            this.btnRemoveAll.UseVisualStyleBackColor = true;
+            this.btnRemoveAll.Click += new System.EventHandler(this.btnRemoveAll_Click);
+            // 
             // FormItemSelection
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(493, 394);
+            this.Controls.Add(this.btnRemoveAll);
+            this.Controls.Add(this.btnAddAll);
             this.Controls.Add(this.labSelected);
             this.Controls.Add(this.labAvailable);
             this.Controls.Add(this.btnCancel);
@@ -148,5 +172,7 @@
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Label labAvailable;
         private System.Windows.Forms.Label labSelected;
+        private System.Windows.Forms.Button btnAddAll;
+        private System.Windows.Forms.Button btnRemoveAll;
     }
 }
